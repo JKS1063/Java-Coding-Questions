@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Q14_rmvSplChars {
+public class Q14_RmvSplChars {
 
     public static String removeSpecialChars(String string) {
         return string.replaceAll("[^a-zA-Z0-9]", "");
