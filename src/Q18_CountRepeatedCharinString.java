@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Q18_StrArrCharCount {
+public class Q18_CountRepeatedCharinString {
 
     public static Map<String, Integer> strArrayCharCount (String[] array, char character) {
         Map<String, Integer> strChrCount = new HashMap<>();
